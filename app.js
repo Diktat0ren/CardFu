@@ -13,7 +13,7 @@ app.get("/", function(req, res) {
 });
 
 //lmao
-
+//ayyyeye
 //If page doesn't exist
 app.get("*", function(req, res) {
 	res.send("404", 404);

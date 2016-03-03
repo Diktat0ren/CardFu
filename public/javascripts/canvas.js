@@ -259,7 +259,7 @@ var canvas, ctx, clickPos, clickedCard, cardWidth, cardHeight, playerCardPositio
 var clickCursor = false,
 	displayCardSlots = false,
 	aspect = 16 / 10;
-var typeColors = {"fire": "#FF8B26", "water" : "#1260E6", "ice" : "#74D5F2"};
+var typeColors = {"fire": "#FF8B26", "water" : "0D83E5", "ice" : "#74D5F2"};
 var colors = {"yellow": "#fdee00", "orange": "#ffb235", "green": "#52a546", "blue": "#246acd", "red": "#e02929", "purple": "#9738af"};
 
 init();

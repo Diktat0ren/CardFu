@@ -12,7 +12,7 @@ switch(Math.floor((Math.random() * 3) + 1)) {
 		break;
 }
 	
-songPlaying = new Audio("../sound/+song);
+songPlaying = new Audio("../sound/"+song);
 
 
 songPlaying.volume = 0.5;
